@@ -74,7 +74,7 @@ start = function(emptyCellIndex) { //function to start the thing
     var y = emptyCells[emptyCellIndex][1];
     var i = emptyCellIndex;
 
-    for ( var num = 0; num < 10; num++ ){
+    for ( var num = 1; num < 10; num++ ){
         if ( checkAll(x,y,num) ) {
             sudoku[x][y] = num+'';
             
