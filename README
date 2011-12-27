@@ -1,0 +1,8 @@
+Solves sudoku puzzles!!!
+
+The main things to get the working on anything is to modify the buildSudokuArray and writeSudokuArray function
+
+By default it works with http://show.websudoku.com/ not http://www.websudoku.com/
+
+You can just copy the code and paste it in the console and run letsDoThis() 
+
